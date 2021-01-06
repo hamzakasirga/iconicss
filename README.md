@@ -9,7 +9,7 @@ Each icon uses a single anchor element (one div) and just one color: the `curren
 
 ## Why use iConicss?
 
-* Because CSS3 is now widely suported by all main browsers.
+* Because CSS3 is now widely supported by all main browsers.
 * Because it may result in cool transition and morphing effects when changing icons.
 * Because it's fun! Like building a Lego:registered: model with a limited set of bricks.
 
